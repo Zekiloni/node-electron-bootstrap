@@ -6,12 +6,11 @@
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/majikarp/node-desktop-app-template",
+  "repository": "https://github.com/Zekiloni/node-electron-bootstrap",
   "keywords": [
     "Electron",
     "Node",
-    "Template",
-    "Hackathon"
+    "Bootstrap"
   ],
   "author": "GitHub",
   "license": "CC0-1.0",
